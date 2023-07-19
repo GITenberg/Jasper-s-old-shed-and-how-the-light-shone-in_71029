@@ -1,0 +1,30 @@
+_repo: Jasper-s-old-shed-and-how-the-light-shone-in_71029
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coker, A. M.
+    gutenberg_agent_id: '56045'
+    url: http://www.gutenberg.org/2009/agents/56045
+description: ''
+gutenberg_issued: '2023-06-23'
+identifiers:
+  gutenberg: '71029'
+language: en
+pgterms:marc905: 20230621072315coker
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bThe Religious Tract Society, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Children -- Religious life -- Juvenile fiction'
+- !lcsh 'Conversion -- Christianity -- Juvenile fiction'
+- !lcsh 'Missions -- England -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Jasper's old shed, and how the light shone in
+url: http://www.gutenberg.org/ebooks/71029
